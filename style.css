@@ -298,10 +298,10 @@ code {
   .question-answer span {
     font-size: .7em;
   }
-
+/* 
   .question-answer:hover {
     border-color: rgba(0,0,0,.5);
-  }
+  } */
 }
 
 @media (min-width: 1400px) {
